@@ -16,16 +16,13 @@ void	ft_print_alphabet(void)
 {
 	char	a;
 
-	a = 97;
-	while (a < 123)
-	{
+	a = 96;
+	while (++a < 123)
 		write(1, &a, 1);
-		a++;
-	}
 }
 /*
 int	main()
 {
 	ft_print_alphabet();
-}
-*/
+	write(1, "\n", 1);
+}*/
