@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
-//#include <unistd.h>
-
 void	ft_swap(int *a, int *b)
 {
 	int		tmp;
@@ -22,6 +19,7 @@ void	ft_swap(int *a, int *b)
 	*b = tmp;
 }
 /*
+ //#include <stdio.h>
 int	main()
 {
 	int		i;

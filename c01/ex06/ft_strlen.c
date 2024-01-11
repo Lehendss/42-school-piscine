@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
 int	ft_strlen(char *str)
 {
 	int		i;
@@ -23,7 +22,8 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-/*
+/* 
+#include <stdio.h>
 int	main()
 {
 	printf("%d\n", ft_strlen("string_size"));

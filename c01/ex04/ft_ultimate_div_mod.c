@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-/*#include <stdio.h>*/
-
 void	ft_ultimate_div_mod(int *a, int *b)
 {
 	int		tmp;
@@ -21,6 +19,7 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	*b = tmp % *b;
 }
 /*
+#include <stdio.h>
 int	main()
 {
 	int a = 10;
