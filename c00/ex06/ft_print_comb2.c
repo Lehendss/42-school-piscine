@@ -11,10 +11,10 @@ void    ft_print_comb2(void)
     int b;
 
     a = -1;
-    while (++a < 99)
+    while (++a <= 98)
     {
         b = a;
-        while (++b < 100)
+        while (++b <= 99)
         {
             ft_putchar(a / 10 + '0');
             ft_putchar(a % 10 + '0');

@@ -7,13 +7,13 @@ void    ft_print_comb(void)
     char    c;
 
     a = '/';
-    while (++a < '8')
+    while (++a <= '7')
     {
         b = a;
-        while (++b < '9')
+        while (++b <= '8')
         {
             c = b;
-            while (++c < ':')
+            while (++c <= '9')
             {
                 write(1, &a, 1);
                 write(1, &b, 1),

@@ -25,9 +25,9 @@ void    ft_putnbr(int nb)
     else
         ft_putchar(nb + 48);
 }
-
+/*
 int main(void)
 {
-    ft_putnbr(2147483649);
+    ft_putnbr(-2147486);
     ft_putchar('\n');
-}
+}*/
