@@ -13,17 +13,17 @@
 
 <div align="center">
 
-    ## Skills I acquired:
+## Skills I acquired: 
 
-    1. Hard Skills
-    - C language 
-    - Shell
-    - Unix
-    - Git
+1. Hard Skills
+- C language 
+- Shell
+- Unix
+- Git
     
-    2. Soft Skills
-    - Collaborating in team
-    - Interpersonal communication
-    - Resilience
+2. Soft Skills
+- Collaborating in team
+- Interpersonal communication
+- Resilience
 
 </div>
