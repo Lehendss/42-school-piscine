@@ -15,6 +15,9 @@
 
 ## Skills I acquired: 
 
+
+</div>
+
 1. Hard Skills
 - C language 
 - Shell
@@ -26,4 +29,3 @@
 - Interpersonal communication
 - Resilience
 
-</div>
