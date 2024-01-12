@@ -12,6 +12,7 @@
 </div>
 
 <div align="center">
+
     ## Skills I acquired:
 
     1. Hard Skills
@@ -24,4 +25,5 @@
     - Collaborating in team
     - Interpersonal communication
     - Resilience
+
 </div>
