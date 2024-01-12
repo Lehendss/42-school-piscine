@@ -15,10 +15,8 @@ int	ft_strcmp(char *s1, char*s2)
 	int	i;
 
 	i = 0;
-	while ((s1[i] != '\0' || s2[i] != '\0') && s1[i] == s2[i])
-	{
+	while ((s1[i] || s2[i]) && s1[i] == s2[i])
 		i++;
-	}
 	return (s1[i] - s2[i]);
 }
 /*
@@ -28,7 +26,7 @@ int	ft_strcmp(char *s1, char*s2)
 int	main(void)
 {
 	char s1[] = "Hello World";
-	char s2[] = "Hello Wrld";
+	char s2[] = "Hello World";
 	
 	int	my_function = ft_strcmp(s1, s2);
 	int	original_function = strcmp(s1, s2);
