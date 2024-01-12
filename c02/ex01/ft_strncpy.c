@@ -10,31 +10,29 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
 
 char	*ft_strncpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int	i;
 
-	i = 0;
-	while (src[i] != '\0' && i < n)
-	{
+	i = -1;
+	while (src[++i] && i < n)
 		dest[i] = src[i];
-		i++;
-	}
-	while (i < n)
-	{
+	while (++i < n)
 		dest[i] = '\0';
-		i++;
-	}
 	return (dest);
 }
 /*
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 	char source[] = "String_to_copy";
-	char dest[] = "aaaaaaaaaaaaaaaaaaaaaaa";
+	char dest[] = "AaaaaaaaaZ";
 	printf("%s\n", source);
-	ft_strncpy(dest, source, 8);
-	printf("%s\n", dest);
+	ft_strncpy(dest, source, 3);
+	printf("My copy: %s\n", dest);
+    strncpy(dest, source, 3);
+	printf("Real: %s\n", dest);
 }*/

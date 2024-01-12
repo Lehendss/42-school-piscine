@@ -10,26 +10,23 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
 char	*ft_strcpy(char *dest, char *src)
 {
 	int		i;
 
-	i = 0;
-	while (src[i] != '\0')
-	{
+	i = -1;
+	while (src[++i])
 		dest[i] = src[i];
-		i++;
-	}
 	dest[i] = '\0';
 	return (dest);
 }
-/*
+
+#include <stdio.h>
 int	main()
 {
 	char	source[] = "Hellooo, there!";
-	char	dest[] = "";
-	printf("%s\n", source);
+	char	dest[] = "a";
+	printf("Original string: [%s]\n", source);
 	ft_strcpy(dest, source);
-	printf("%s\n", dest);
-}*/
+	printf("Copied string: [%s]\n", dest);
+}
