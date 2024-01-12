@@ -20,7 +20,7 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
-
+/*
 #include <stdio.h>
 int	main()
 {
@@ -29,4 +29,4 @@ int	main()
 	printf("Original string: [%s]\n", source);
 	ft_strcpy(dest, source);
 	printf("Copied string: [%s]\n", dest);
-}
+}*/
