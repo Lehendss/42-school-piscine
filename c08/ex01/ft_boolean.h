@@ -2,6 +2,7 @@
 #define FT_BOOLEAN_H
 
 #include <unistd.h>
+
 #define FALSE 0
 #define TRUE 1
 #define EVEN(nb) (nb % 2)
