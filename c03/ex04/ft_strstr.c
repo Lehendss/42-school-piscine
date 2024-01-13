@@ -19,7 +19,7 @@ char	*ft_strstr(char *str, char *to_find)
 	j = 0;
 	if (to_find[j] == '\0')
 		return (str);
-	while (str[i] != '\0')
+	while (str[i])
 	{
 		while (str[i + j] == to_find[j] && str[i + j] != '\0')
 			j++;
@@ -36,10 +36,13 @@ char	*ft_strstr(char *str, char *to_find)
 
 int	main(void)
 {
-	char	str[] = "";
-	char	to_find[] = "a";
+	char	str[] = "cuentame la vida";
+	char	to_find[] = "ae";
 	char *find;
+    char *find2;
 
 	find = ft_strstr(str, to_find);
-	printf("%s\n", find);
+	printf("Mine: %s\n", find);
+    find2 = strstr(str, to_find);
+    printf("Original: %s\n", find2);
 }*/

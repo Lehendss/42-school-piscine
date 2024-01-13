@@ -16,14 +16,13 @@ char	*ft_strcat(char *dest, char *src)
 	int	j;
 
 	i = 0;
-	j = 0;
-	while (dest[i] != '\0')
+	j = -1;
+	while (dest[i])
 		i++;
-	while (src[j] != '\0')
+	while (src[++j])
 	{
 		dest[i] = src[j];
 		i++;
-		j++;
 	}
 	dest[i] = '\0';
 	return (dest);
@@ -44,5 +43,5 @@ int	main(void)
 	char dest2[] = "Hello";
 
 	strcat(dest2, src2);
-	printf("Original function: %s\n", dest);
+	printf("Original function: %s\n", dest2);
 }*/
