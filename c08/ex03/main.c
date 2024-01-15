@@ -12,10 +12,10 @@ int main(void)
 {
     t_point point;
     
-    printf("Before: ");
-    printf("X: %d\n", x);
-    printf("Y: %d\n", y);
-
     set_point(&point);
+    printf("Before\n");
+    printf("X value: %d\n", point.x);
+    printf("Y value: %d\n", point.y);
+
     return (0);
 }
