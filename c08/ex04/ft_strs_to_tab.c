@@ -39,7 +39,7 @@ struct s_stock_str *ft_strs_to_tab (int ac, char **av)
     int i;
     struct s_stock_str  *strs;
 
-    strs = malloc((ac + 1) * sizeof(struct s_stock_str));
+    strs = (struct s_stock_str *)malloc((ac + 1) * sizeof(struct s_stock_str));
     if (strs == NULL)
         return (NULL);
     i = -1;
@@ -50,4 +50,4 @@ struct s_stock_str *ft_strs_to_tab (int ac, char **av)
         strs[i].copy = ft_strdup(av[i]);
     }
     return strs;
-}T
+}
