@@ -13,14 +13,13 @@ char    *ft_strcapitalize(char *str)
     }
     return (str);
 }
-
+/*
 #include <stdio.h>
 #include <string.h>
-
 int main(void)
 {
     char    str1[] = "ola, tudo bem? 42palavras guarenta-e-duas; cinquenta+e+um";
 
     printf("%s\n", ft_strcapitalize(str1));
 
-}
+}*/
