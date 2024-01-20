@@ -1,4 +1,4 @@
-#ft_print_memory
+# ft_print_memory
 
-###This exercise aims to practice concepts like: void pointers, strings manipulation, hexadecimals and so on.
+### This exercise aims to practice concepts like: void pointers, strings manipulation, hexadecimals and so on.
 
