@@ -42,3 +42,7 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 | rush00    | ---- | Forgot to subscribe |
 | rush01    | 'Skyscrapers' game | Subscribed but didnt complete |
 | rush02    | -----| Didnt subscribe |
+| exam00    |-----| Passed |
+| exam01    |-----| Passed|
+| exam02    |-----| Didnt pass |
+| finalexam |-----| Passed |
