@@ -20,9 +20,20 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 |Hard Skills |Soft Skills |
 |------------|---------------|
-|C language | Collaborating in team
+|C language | Collaborating in team |
 | Shell     | Interpersonal communication|
 | Unix      | Resilience|
 | Git       | Time management|
     
+## Projects
+
+|Task |About |
+|-------|----------|
+| c00       | Introductiontion to C|
+| c01       | Pointers|
+| c02       | Strings and Arrays|
+| c03       | Strings Manipulation|
+| C04       | String qualities|
+| C06       | argc argv | 
+| C07       | Memory Allocation(malloc) |
 
