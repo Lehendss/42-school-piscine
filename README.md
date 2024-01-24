@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="src/img/42_Logo.svg.png" alt="42" width="200"/>
+<img src="src/img/42_Logo.svg.png" alt="42" width="150"/>
 
 # **42 Piscine Porto**
-#### *From 10-12-2023 to 05-01 2024*
+#### *10-12-2023 to 05-01 2024*
 </div>
 
 <div align= "center">
