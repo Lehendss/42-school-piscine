@@ -70,18 +70,18 @@ void    *ft_print_memory(void *addr, unsigned int size)
     i = 0;
     c = addr;
     while (i * 16 < size)
-    {
-        if (i < size /16)
-            sendsize = 16;
-        else
-            sendsize = size % 16;
-        ft_print_addr((unsigned long long)c + (i * 16));
-        ft_putchar(':');
-        ft_print_string(c + (i * 16), sendsize);
-        ft_putchar('\n');
-        i++;
-    }
-    return (addr);
+    //{
+    //    if (i < size /16)
+    //        sendsize = 16;
+    //    else
+    //        sendsize = size % 16;
+    //    ft_print_addr((unsigned long long)c + (i * 16));
+    //    ft_putchar(':');
+    //    ft_print_string(c + (i * 16), sendsize);
+    //    ft_putchar('\n');
+    //    i++;
+    //}
+    //return (addr);
 }
 
 int ft_strlen(char *str)
