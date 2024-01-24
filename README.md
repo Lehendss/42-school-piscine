@@ -20,12 +20,7 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 </div>
 
-<div align="center">
-
 ## Skills I acquired: 
-
-
-</div>
 
 1. Hard Skills
 - C language 
