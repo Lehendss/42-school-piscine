@@ -37,7 +37,7 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 | c03       | Strings Manipulation| Passed
 | C04       | String qualities| Passed
 | c05       | Maths | Didnt do |
-| C06       | argc argv | Passed
+| C06       | argc argv | Passed, fotgot push hehe |
 | C07       | Memory Allocation(malloc) | Passed
 | rush00    | ---- | Forgot to subscribe |
 | rush01    | 'Skyscrapers' game | Subscribed but didnt complete |
