@@ -31,7 +31,7 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 |-------|----------|------|
 | shell00   | Introduction to Unix commands & git config| passed, didnt git push here|
 | shell01   | More linux commands | passed, didnt git push here|
-| c00       | Introduction to C| Passed |
+| c00       | Introduction to C| ![Passed](https://img.shields.io/badge/Passed-green)|
 | c01       | Pointers| Passed  |
 | c02       | Strings and Arrays| Passed|
 | c03       | Strings Manipulation| Passed
