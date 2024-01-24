@@ -18,7 +18,7 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 ## Skills I acquired: 
 
-|⚙️  Hard Skills |🧠 Soft Skills |
+|Hard Skills |Soft Skills |
 |------------|---------------|
 |C language | Collaborating in team
 | Shell     | Interpersonal communication|
