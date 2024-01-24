@@ -29,20 +29,20 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 |Task |About | State |
 |-------|----------|------|
-| shell00   | Introduction to Unix commands & git config| passed, didnt git push here|
-| shell01   | More linux commands | passed, didnt git push here|
-| c00       | Introduction to C| ![Passed](https://img.shields.io/badge/Passed-green)|
-| c01       | Pointers| Passed  |
-| c02       | Strings and Arrays| Passed|
-| c03       | Strings Manipulation| Passed
-| C04       | String qualities| Passed
-| c05       | Maths | Didnt do |
-| C06       | argc argv | Passed, fotgot push hehe |
-| C07       | Memory Allocation(malloc) | Passed
-| rush00    | ---- | Forgot to subscribe |
-| rush01    | 'Skyscrapers' game | Subscribed but didnt complete |
-| rush02    | -----| Didnt subscribe |
-| exam00    |-----| Passed |
-| exam01    |-----| Passed|
-| exam02    |-----| Didnt pass |
-| finalexam |-----| Passed |
+| shell00   | Introduction to Unix commands & git config|  ![Passed](https://img.shields.io/badge/Didn't%20push-Success-green)|
+| shell01   | More linux commands |  ![Passed](https://img.shields.io/badge/Didn't%20push-Success-green)|
+| c00       | Introduction to C| ![Passed](https://img.shields.io/badge/Success-green)|
+| c01       | Pointers| ![Passed](https://img.shields.io/badge/Success-green)  |
+| c02       | Strings and Arrays| ![Passed](https://img.shields.io/badge/Success-green)|
+| c03       | Strings Manipulation |  ![Passed](https://img.shields.io/badge/Success-green)|
+| C04       | String qualities|  ![Passed](https://img.shields.io/badge/Success-green)|
+| c05       | Maths | ![Didnt](https://img.shields.io/badge/Didn't%20do-purple) |
+| C06       | argc argv | ![Passed](https://img.shields.io/badge/Didn't%20push-Success-green) |
+| C07       | Memory Allocation(malloc) |![Passed](https://img.shields.io/badge/Success-green)|
+| rush00    | ---- | ![Didnt](https://img.shields.io/badge/Didn't%20do-purple)  |
+| rush01    | 'Skyscrapers' game |   ![Fail](https://img.shields.io/badge/Fail-red) |
+| rush02    | -----|  ![Didnt](https://img.shields.io/badge/Didn't%20do-purple) |
+| exam00    |-----|  ![Passed](https://img.shields.io/badge/Success-green) |
+| exam01    |-----|  ![Passed](https://img.shields.io/badge/Success-green)|
+| exam02    |-----| ![Fail](https://img.shields.io/badge/Fail-red) |
+| finalexam |-----|  ![Passed](https://img.shields.io/badge/Success-green)|
