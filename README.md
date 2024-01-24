@@ -8,8 +8,7 @@
 <div align= "center">
 
 ## Repository collection with my journey through the Piscine: <br>
-![42](src/img/42_Logo.svg.png)
-
+<img src="src/img/42_Logo.svg.png" alt="42" width="200"/>
 #### *From 10-12-2023 to 05-01 2024*
 
 </div>
