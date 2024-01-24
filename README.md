@@ -37,8 +37,8 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 | c03       | Strings Manipulation |  ![Passed](https://img.shields.io/badge/Success-green)|
 | C04       | String qualities|  ![Passed](https://img.shields.io/badge/Success-green)|
 | c05       | Maths | ![Didnt](https://img.shields.io/badge/Didn't%20do-purple) |
-| C06       | argc argv | ![Passed](https://img.shields.io/badge/Didn't%20push-Success-green) |
-| C07       | Memory Allocation(malloc) |![Passed](https://img.shields.io/badge/Success-green)|
+| c06       | argc argv | ![Passed](https://img.shields.io/badge/Didn't%20push-Success-green) |
+| c07       | Memory Allocation(malloc) |![Passed](https://img.shields.io/badge/Success-green)|
 | rush00    | ---- | ![Didnt](https://img.shields.io/badge/Didn't%20do-purple)  |
 | rush01    | 'Skyscrapers' game |   ![Fail](https://img.shields.io/badge/Fail-red) |
 | rush02    | -----|  ![Didnt](https://img.shields.io/badge/Didn't%20do-purple) |
