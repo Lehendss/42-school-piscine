@@ -18,14 +18,10 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 ## Skills I acquired: 
 
-1. Hard Skills
-- C language 
-- Shell
-- Unix
-- Git
+| Hard Skills |  Soft Skills |
+|C language | Collaborating in team
+| Shell     | Interpersonal communication|
+| Unix      | Resilience|
+| Git       | Time management|
     
-2. Soft Skills
-- Collaborating in team
-- Interpersonal communication
-- Resilience
 
