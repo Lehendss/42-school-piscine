@@ -27,13 +27,18 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
     
 ## Projects
 
-|Task |About |
-|-------|----------|
-| c00       | Introductiontion to C|
-| c01       | Pointers|
-| c02       | Strings and Arrays|
-| c03       | Strings Manipulation|
-| C04       | String qualities|
-| C06       | argc argv | 
-| C07       | Memory Allocation(malloc) |
-
+|Task |About | State |
+|-------|----------|------|
+| shell00   | Introduction to Unix commands & git config| passed, didnt, git push here|
+| shell01   | More linux commands | passed, didnt, git push here|
+| c00       | Introduction to C| Passed |
+| c01       | Pointers| Passed  |
+| c02       | Strings and Arrays| Passed|
+| c03       | Strings Manipulation| Passed
+| C04       | String qualities| Passed
+| c05       | Maths | Didnt do |
+| C06       | argc argv | Passed
+| C07       | Memory Allocation(malloc) | Passed
+| rush00    | ---- | Forgot to subscribe |
+| rush01    |----   | Subscribed but didnt complete |
+| rush02    | -----| Didnt subscribe |
