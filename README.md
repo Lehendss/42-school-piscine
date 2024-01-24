@@ -29,8 +29,8 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 
 |Task |About | State |
 |-------|----------|------|
-| shell00   | Introduction to Unix commands & git config| passed, didnt, git push here|
-| shell01   | More linux commands | passed, didnt, git push here|
+| shell00   | Introduction to Unix commands & git config| passed, didnt git push here|
+| shell01   | More linux commands | passed, didnt git push here|
 | c00       | Introduction to C| Passed |
 | c01       | Pointers| Passed  |
 | c02       | Strings and Arrays| Passed|
@@ -40,5 +40,5 @@ Each project we undertook provided a fresh opportunity to apply the knowledge we
 | C06       | argc argv | Passed
 | C07       | Memory Allocation(malloc) | Passed
 | rush00    | ---- | Forgot to subscribe |
-| rush01    |----   | Subscribed but didnt complete |
+| rush01    | 'Skyscrapers' game | Subscribed but didnt complete |
 | rush02    | -----| Didnt subscribe |
